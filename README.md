@@ -1,5 +1,6 @@
 # The "Digital Skeptic" AI
-
+This application performs a **"skeptical analysis"** of any online news article using the **LangGraph** framework and **Groq LLM**.  
+It fetches the article content, identifies key claims, analyzes language and tone, detects potential red flags, generates counter-arguments, and produces a **Markdown report** to help readers think critically.
 
 ---
 
