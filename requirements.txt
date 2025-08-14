@@ -1,0 +1,8 @@
+bs4
+langgraph
+python-dotenv
+langchain-groq
+langchain_core
+textwrap
+typing 
+langgraph-cli[inmem]
