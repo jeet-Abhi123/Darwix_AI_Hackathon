@@ -5,6 +5,7 @@ It fetches the article content, identifies key claims, analyzes language and ton
 ---
 
 ## 📌 Features
+- **FrameWork** – Langgraph (Code-Based agentic Framework)
 - **Article Fetching** – Uses `BeautifulSoup` to scrape and clean article text.
 - **Core Claim Extraction** – Summarizes the 3–5 main factual claims.
 - **Language & Tone Analysis** – Classifies writing style (neutral, emotional, opinionated, etc.).
